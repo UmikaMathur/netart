@@ -8,6 +8,7 @@ body {
 
   background-image: url('giphy.gif');
   background-size:cover;
+  font-family: 'Baloo Bhaijaan', cursive;
 }
 
 h1 {
@@ -22,6 +23,8 @@ text-decoration: none;
 /* Centers images */
 
 img {
+  position: relative;
+  top: 10px
 display: block;
 margin: 0px auto;
 }
